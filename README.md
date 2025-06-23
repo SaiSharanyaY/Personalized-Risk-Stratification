@@ -33,7 +33,7 @@ This repository contains data and code scripts for association rule mining pipel
 
 ## Outputs
 
-To access all the results for the association pattern analysis visit - link
+To access all the results for the association pattern analysis and for rawdata, please visit - https://drive.google.com/drive/folders/1orH-miLA8vmUI19gxPu8_RbRA9SFc8IQ?usp=sharing 
 
 ## Set-up
 
